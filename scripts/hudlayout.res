@@ -475,9 +475,9 @@
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "r630"	[$WIN32]
-		"ypos"	 "8"	[$WIN32]
-		"wide"	 "633"
+		"xpos"	 "r631"	[$WIN32]
+		"ypos"	 "20"	[$WIN32]
+		"wide"	 "631"
 		"tall"	 "468"
 
 		"MaxDeathNotices" "7"
