@@ -1,5 +1,5 @@
 #base "huditemeffectmeter_sodapopper.res"
-"Resource/UI/HudItemEffectMeter_sapper.res"
+"resource/ui/huditemeffectmeter_sapper.res"
 {
 	"Label100"
 	{

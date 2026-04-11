@@ -1,4 +1,4 @@
-"Resource/UI/HudHealthAccount_Base.res"
+"resource/ui/hudhealthaccount_base.res"
 {
 	"CHealthAccountPanel"
 	{

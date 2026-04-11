@@ -1,5 +1,5 @@
 #base "huditemeffectmeter_scout.res"
-"Resource/UI/HudItemEffectMeter_particlecannon.res"
+"resource/ui/huditemeffectmeter_particlecannon.res"
 {
 	"Label100"
 	{

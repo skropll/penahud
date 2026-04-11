@@ -1,5 +1,5 @@
 #base "huditemeffectmeter_scout.res"
-"Resource/UI/HudItemEffectMeter_cleaver.res"
+"resource/ui/huditemeffectmeter_cleaver.res"
 {
 	"Label100"
 	{

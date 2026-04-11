@@ -1,5 +1,5 @@
 #base "huditemeffectmeter_sodapopper.res"
-"Resource/UI/HudItemEffectMeter_raygun.res"
+"resource/ui/huditemeffectmeter_raygun.res"
 {
 	"Label100"
 	{

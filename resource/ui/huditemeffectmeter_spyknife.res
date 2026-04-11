@@ -1,5 +1,5 @@
 #base "huditemeffectmeter_scout.res"
-"Resource/UI/HudItemEffectMeter_spyknife.res"
+"resource/ui/huditemeffectmeter_spyknife.res"
 {
 	"Label100"
 	{
