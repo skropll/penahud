@@ -1,4 +1,4 @@
-"Resource/UI/MatchMakingPlayList.res"
+"resource/ui/matchmakingplaylist.res"
 {
 	"CasualEntry"
 	{

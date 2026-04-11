@@ -1,4 +1,4 @@
-"Resource/UI/HudArenaVScript.res"
+"resource/ui/hudarenavscript.res"
 {
 	"ObjectiveStatusRobotDestruction"
 	{

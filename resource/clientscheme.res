@@ -1904,12 +1904,12 @@
 		}
 		"3" 
 		{
-			"font" "resource/fonts/Catamaran-SemiBold.ttf"
+			"font" "resource/fonts/catamaran-semibold.ttf"
 			"name" "Catamaran SemiBold"
 		}
 		"4"
 		{
-			"font" "resource/fonts/SkullsKillstreak.ttf"
+			"font" "resource/fonts/skullskillstreak.ttf"
 			"name" "SkullsKillstreak"
 		}
 		"5"

@@ -1,4 +1,4 @@
-"Resource/UI/HudObjectiveArenaHybrid.res"
+"resource/ui/hudobjectivearenahybrid.res"
 {
 	"ObjectiveStatusRobotDestruction"
 	{

@@ -1,6 +1,6 @@
 #base "base_active.res"
 
-"Resource/UI/Build_Menu/Dispenser_Active.res"
+"resource/ui/build_menu/dispenser_active.res"
 {
 	"NumberLabel"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/HudPVEWinPanel.res"
+"resource/ui/hudpvewinpanel.res"
 {
 	"Background"
 	{

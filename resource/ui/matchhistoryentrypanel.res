@@ -1,4 +1,4 @@
-"Resource/UI/MatchHistoryEntryPanel.res"
+"resource/ui/matchhistoryentrypanel.res"
 {
 	"MatchEntry"
 	{

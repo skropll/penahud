@@ -1,4 +1,4 @@
-"Resource/UI/HudDemomanPipes.res"
+"resource/ui/huddemomanpipes.res"
 {
 	"ChargeMeter"
 	{
@@ -74,6 +74,40 @@
 			"font"									"HudFontMediumSmallBold"
 			"fgcolor"								"LabelTransparent"
 			"pin_to_sibling"						"NumPipesLabel"
+		}
+		"PipeIcon"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"PipeIcon"
+			"xpos"									"9999"
+			"ypos"									"9999"
+			"wide"									"0"
+			"tall"									"0"
+			"visible"								"0"
+			"enabled"								"0"
+		}
+	}
+	"NoPipesPresentPanel"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"NoPipesPresentPanel"
+		"XPos"										"9999"
+		"YPos"										"9999"
+		"Wide"										"0"
+		"Tall"										"0"
+		"Visible"									"0"
+		"Enabled"									"0"
+		
+		"PipeIcon"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"PipeIcon"
+			"xpos"									"9999"
+			"ypos"									"9999"
+			"wide"									"0"
+			"tall"									"0"
+			"visible"								"0"
+			"enabled"								"0"
 		}
 	}
 }

@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Demoman.res"
+"resource/ui/huditemeffectmeter_demoman.res"
 {
 	"HudItemEffectMeter"
 	{
@@ -43,7 +43,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"center"
-		"font"										"typosterReg24"
+		"font"										"HudFontMedium"
 		"fgcolor"									"White"
 	}
 	"ItemEffectMeterCountShadow"
@@ -60,7 +60,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"center"
-		"font"										"typosterReg24"
+		"font"										"HudFontMedium"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"ItemEffectMeterCount"

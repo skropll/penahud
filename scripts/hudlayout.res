@@ -1,4 +1,4 @@
-"Resource/HudLayout.res"
+"resource/hudlayout.res"
 {
 	HudPlayerStatus
 	{
@@ -65,26 +65,25 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"	"r98"	[$WIN32]
+		"xpos"	"0"	[$WIN32]
 		"ypos"	"0"	[$WIN32]
-		"wide"	"98"
+		"wide"	"f0"
 		"tall"	"480"
 	}
 	
-	HudDemomanCharge
+	"HudDemomanCharge"
 	{
-		"fieldName"		"HudDemomanCharge"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"c-25"	[$WIN32]
-		"ypos"			"r74"	[$WIN32]
-		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"wide_minmode"	"50"
-		"tall"			"8"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
-	}	
+		"fieldName"									"HudDemomanCharge"
+		"visible"									"1"
+		"enabled"									"1"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"f0"
+		"MeterFG"									"White"
+		"MeterBG"									"Gray"
+	}
 
 	HudBowCharge
 	{
@@ -1014,18 +1013,16 @@
 		"PaintBackgroundType"	"0"
 	}	
 	
-	HudDemomanPipes
+	"HudDemomanPipes"
 	{
-		"fieldName"		"HudDemomanPipes"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"c-25"	[$WIN32]
-		"ypos"			"r110"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
-		"wide"			"100"
-		"tall"			"50"
-	}	
+		"fieldName"									"HudDemomanPipes"
+		"visible"									"1"
+		"enabled"									"1"
+		"xpos"										"0"
+		"ypos"										"0"
+		"wide"										"f0"
+		"tall"										"f0"
+	}
 
 	HudTeamGoal
 	{

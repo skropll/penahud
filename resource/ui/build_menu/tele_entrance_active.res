@@ -1,6 +1,6 @@
 #base "base_active.res"
 
-"Resource/UI/Build_Menu/Tele_Entrance_Active.res"
+"resource/ui/build_menu/tele_entrance_active.res"
 {
 	"BuildingIcon"
 	{

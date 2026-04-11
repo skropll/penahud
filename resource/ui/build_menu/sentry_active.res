@@ -1,6 +1,6 @@
 #base "base_active.res"
 
-"Resource/UI/Build_Menu/Sentry_Active.res"
+"resource/ui/build_menu/sentry_active.res"
 {
 	"NumberLabel"
 	{

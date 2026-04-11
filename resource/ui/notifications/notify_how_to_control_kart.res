@@ -1,4 +1,4 @@
-"Resource/UI/Notifications/Notify_How_To_Control_Kart.res"
+"resource/ui/notifications/notify_how_to_control_kart.res"
 {
 	"Notification_Background"{"ControlName" "CImagePanel" "fieldName" "Notification_Background" "xpos" "9999" "ypos" "9999" "wide" "0" "tall" "0" "visible" "0" "enabled" "0"}
 	"Notification_Icon"{"ControlName" "CIconPanel" "fieldName" "Notification_Icon" "xpos" "9999" "ypos" "9999" "wide" "0" "tall" "0" "visible" "0" "enabled" "0"}
