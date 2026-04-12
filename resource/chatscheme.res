@@ -2,8 +2,8 @@
 {
 	"Colors"
 	{
-		"customred"											"176 0 1 255"
-		"customblue"										"55 70 155 255"
+		"customred"											"93 121 174 255"
+		"customblue"										"204 186 124 255"
 		"White"												"225 220 220 255"
 		"OffWhite"											"225 220 220 255"
 		"DullWhite"											"0 0 0 255"

@@ -5,8 +5,8 @@
 	//===========================================================================================================================================================================
 	"Colors"
 	{
-		"customred"											"176 0 1 255"
-		"customblue"										"55 70 155 255"
+		"customred"											"93 121 174 255"
+		"customblue"										"204 186 124 255"
 
 		"Main"												"186 191 188 255"
 		"Low"												"253 69 37 255"
@@ -36,9 +36,9 @@
 		"PartyMember6"										"255 133 255 255"
 
 		"White"												"250 250 250 255"
-		"Red"												"176 0 1 255"
-		"RedSolid"											"176 0 1 255"
-		"Blue"												"55 70 155 255"
+		"Red"												"93 121 174 255"
+		"RedSolid"											"93 121 174 255"
+		"Blue"												"204 186 124 255"
 		"OrangeSolid"										"255 160 100 255"
 		"Yellow"											"225 220 220 255"
 		"TransparentYellow"									"225 220 220 255"
@@ -50,12 +50,12 @@
 		"TransparentLightBlack"								"0 0 0 100"
 		"FooterBGBlack"										"32 31 30 255"
 
-		"HUDBlueTeam"										"55 70 155 255"
-		"HUDRedTeam"										"176 0 1 255"
+		"HUDBlueTeam"										"204 186 124 255"
+		"HUDRedTeam"										"93 121 174 255"
 		"HUDSpectator"										"130 125 125 255"
-		"HUDBlueTeamSolid"									"55 70 155 255"
-		"HUDRedTeamSolid"									"176 0 1 255"
-		"HUDDeathWarning"									"176 0 1 255"
+		"HUDBlueTeamSolid"									"204 186 124 255"
+		"HUDRedTeamSolid"									"93 121 174 255"
+		"HUDDeathWarning"									"93 121 174 255"
 		"HudWhite"											"225 220 220 255"
 		"HudOffWhite"										"225 220 220 255"
 		"HudBlack"											"21 20 19 255"
@@ -73,12 +73,12 @@
 
 		"HudProgressBarActive"								"225 220 220 255"
 		"HudProgressBarInActive"							"225 220 220 255"
-		"HudProgressBarActiveLow"							"176 0 1 255"
-		"HudProgressBarInActiveLow"							"176 0 1 255"
+		"HudProgressBarActiveLow"							"93 121 174 255"
+		"HudProgressBarInActiveLow"							"93 121 174 255"
 
 		"HudTimerProgressActive"							"225 220 220 255"
 		"HudTimerProgressInActive"							"32 30 30 255"
-		"HudTimerProgressWarning"							"176 0 1 255"
+		"HudTimerProgressWarning"							"93 121 174 255"
 
 		"HudTrainingHint"									"225 220 220 255"
 
@@ -89,7 +89,7 @@
 		"StoreDarkTan"										"130 125 125 255"
 		"StoreGreen"										"50 112 73 255"
 
-		"LowHealthRed"										"176 0 1 255"
+		"LowHealthRed"										"93 121 174 255"
 		"ProgressOffWhite"									"225 220 220 255"
 		"ProgressBackground"								"0 0 0 50"
 		"HealthBgGrey"										"130 125 125 255"
@@ -101,15 +101,15 @@
 
 		"BuildMenuActive"									"225 220 220 255"
 
-		"DisguiseMenuIconRed"								"176 0 1 255"
-		"DisguiseMenuIconBlue"								"55 70 155 255"
+		"DisguiseMenuIconRed"								"93 121 174 255"
+		"DisguiseMenuIconBlue"								"204 186 124 255"
 
 		"HTMLBackground"									"45 44 43 255"
 
 		"ItemAttribLevel"									"225 220 220 255"
 		"ItemAttribNeutral"									"225 220 220 255"
 		"ItemAttribPositive"								"225 220 220 255"
-		"ItemAttribNegative"								"176 0 1 255"
+		"ItemAttribNegative"								"93 121 174 255"
 
 		"ItemSetName"										"225 255 15 255"
 		"ItemSetItemEquipped"								"149 175 12 255"
